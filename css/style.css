@@ -1,0 +1,22 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+.a{
+	background-color: #eee;
+	color: white;
+	margin: 50px;
+	padding: 20px;
+	/*border-width: 50px;
+	border-style: solid;
+	border-color: #000;*/
+	border: 1px dotted blue;
+	/*border: 50px solid #000;*/
+}
+.b{
+	background-color: red;
+}
+.c{
+	background-color: green;
+	color: white;
+}
